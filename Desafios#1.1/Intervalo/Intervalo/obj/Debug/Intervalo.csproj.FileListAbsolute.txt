@@ -1,0 +1,7 @@
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\bin\Debug\Intervalo.exe.config
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\bin\Debug\Intervalo.exe
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\bin\Debug\Intervalo.pdb
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.csproj.AssemblyReference.cache
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.csproj.CoreCompileInputs.cache
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.exe
+C:\Users\jgabr\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.pdb

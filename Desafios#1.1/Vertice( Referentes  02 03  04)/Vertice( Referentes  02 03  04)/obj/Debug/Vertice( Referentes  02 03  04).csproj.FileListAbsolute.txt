@@ -1,0 +1,7 @@
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\bin\Debug\Vertice( Referentes  02 03  04).exe.config
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\bin\Debug\Vertice( Referentes  02 03  04).exe
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\bin\Debug\Vertice( Referentes  02 03  04).pdb
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\obj\Debug\Vertice( Referentes  02 03  04).csproj.AssemblyReference.cache
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\obj\Debug\Vertice( Referentes  02 03  04).csproj.CoreCompileInputs.cache
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\obj\Debug\Vertice( Referentes  02 03  04).exe
+C:\Users\jgabr\source\repos\Vertice( Referentes  02 03  04)\Vertice( Referentes  02 03  04)\obj\Debug\Vertice( Referentes  02 03  04).pdb

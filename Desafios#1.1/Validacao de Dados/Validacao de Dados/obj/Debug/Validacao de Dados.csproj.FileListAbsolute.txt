@@ -1,0 +1,7 @@
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\obj\Debug\Validacao de Dados.csproj.AssemblyReference.cache
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\obj\Debug\Validacao de Dados.csproj.CoreCompileInputs.cache
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\bin\Debug\Validacao de Dados.exe.config
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\bin\Debug\Validacao de Dados.exe
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\bin\Debug\Validacao de Dados.pdb
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\obj\Debug\Validacao de Dados.exe
+C:\Users\jgabr\source\repos\Validacao de Dados\Validacao de Dados\obj\Debug\Validacao de Dados.pdb

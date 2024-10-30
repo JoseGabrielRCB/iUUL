@@ -1,0 +1,7 @@
+C:\Users\jgabr\source\repos\Certidão\Certidão\bin\Debug\Certidão.exe.config
+C:\Users\jgabr\source\repos\Certidão\Certidão\bin\Debug\Certidão.exe
+C:\Users\jgabr\source\repos\Certidão\Certidão\bin\Debug\Certidão.pdb
+C:\Users\jgabr\source\repos\Certidão\Certidão\obj\Debug\Certidão.csproj.AssemblyReference.cache
+C:\Users\jgabr\source\repos\Certidão\Certidão\obj\Debug\Certidão.csproj.CoreCompileInputs.cache
+C:\Users\jgabr\source\repos\Certidão\Certidão\obj\Debug\Certidão.exe
+C:\Users\jgabr\source\repos\Certidão\Certidão\obj\Debug\Certidão.pdb

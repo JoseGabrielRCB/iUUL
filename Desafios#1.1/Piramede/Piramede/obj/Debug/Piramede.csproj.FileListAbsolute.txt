@@ -1,0 +1,7 @@
+C:\Users\jgabr\source\repos\Piramede\Piramede\obj\Debug\Piramede.csproj.AssemblyReference.cache
+C:\Users\jgabr\source\repos\Piramede\Piramede\obj\Debug\Piramede.csproj.CoreCompileInputs.cache
+C:\Users\jgabr\source\repos\Piramede\Piramede\bin\Debug\Piramede.exe.config
+C:\Users\jgabr\source\repos\Piramede\Piramede\bin\Debug\Piramede.exe
+C:\Users\jgabr\source\repos\Piramede\Piramede\bin\Debug\Piramede.pdb
+C:\Users\jgabr\source\repos\Piramede\Piramede\obj\Debug\Piramede.exe
+C:\Users\jgabr\source\repos\Piramede\Piramede\obj\Debug\Piramede.pdb
