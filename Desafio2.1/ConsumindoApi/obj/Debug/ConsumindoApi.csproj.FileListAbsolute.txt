@@ -1,0 +1,10 @@
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\ConsumindoApi.csproj.AssemblyReference.cache
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\ConsumindoApi.exe.config
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\ConsumindoApi.exe
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\ConsumindoApi.pdb
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\Consumin.B1C56ADD.Up2Date
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\ConsumindoApi.exe
+C:\Users\jgabr\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\ConsumindoApi.pdb
